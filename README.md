@@ -5,6 +5,7 @@ This repository contains Python scripts and examples for DevOps-related tasks. I
 ## Folder Structure
 
 - **basics/**: Contains fundamental Python scripts
+
   - `hello.py`: A simple "Hello World" program
   - `function.py`: Examples of Python functions
   - `check_cpu.py`: Script to check CPU usage
@@ -13,6 +14,12 @@ This repository contains Python scripts and examples for DevOps-related tasks. I
 
 - **data_structures/**: Contains data structure implementations
   - `list.py`: Examples and operations on Python lists
+  - `dict.py`: Examples and operations on Python dictionaries
+  - `sets.py`: Examples and operations on Python sets
+  - `read_file.py`: Script to read and write files
+  - `jokes_api.py`: Script to fetch jokes from an API
+  - `stock_market_api.py`: Script to fetch stock market data from Alpha Vantage API
+  - `demo.txt`: Demo text file for file operations
 
 ## Requirements
 
